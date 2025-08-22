@@ -1,4 +1,4 @@
-![image](https://stillsmediagroup.com/assets/reachteam-chat/Asset%201@2x.png)
+![image](https://stillsmediagroup.com/assets/reachteam-chat/CoverPhoto@2x.png)
 
 # ReachTeam Chat iOS
 
