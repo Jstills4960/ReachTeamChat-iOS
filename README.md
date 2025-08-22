@@ -1,3 +1,5 @@
+![image](https://stillsmediagroup.com/assets/reachteam-chat/Asset%201@2x.png)
+
 # ReachTeam Chat iOS
 
 ReachTeam Chat for iOS is built on Element Classic which is based on the [MatrixSDK](https://github.com/matrix-org/matrix-ios-sdk)
